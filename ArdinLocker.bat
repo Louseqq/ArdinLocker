@@ -7,7 +7,7 @@ set code=""
 
 :code
 set /p code="Wpisz kod:"
-if "%code%"=="12345" goto correct
+if "%code%"=="F7H!RAFAAQPSRALIDALSHECHEMVIDILI" goto correct
 if NOT "%code%"=="F7H!RAFAAQPSRALIDALSHECHEMVIDILI" goto wrong
 
 :correct
